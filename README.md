@@ -13,3 +13,5 @@
 - https://how-browser-works-internally.hashnode.dev/
 - https://emmet-for-the-html.hashnode.dev/
 - https://understanding-html-tag-and-element.hashnode.dev/
+- https://understanding-html-tag-and-element.hashnode.dev/
+- https://css-selectors-and-elements.hashnode.dev/
